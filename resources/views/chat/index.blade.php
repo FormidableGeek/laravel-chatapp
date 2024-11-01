@@ -20,6 +20,7 @@
             </div>
         </section>
         <section id="inbox-container" class="scrollable">
+            <!-- This is a comment, the comment below is to serve as a reference for the inbox messages template-->
            <!-- <div class="chat">
                 <div class="user-logo">
                     <img src="{{asset('assets/images/users/user-1.jpg')}}">
